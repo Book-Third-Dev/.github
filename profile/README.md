@@ -12,7 +12,7 @@ We aim to increase community engagement and awareness by creating ubiquity of al
 
 ### Our Platform
 
-- **For Users:** Effortless access to a wide array of community activities and venues. Whether you’re looking to book a sports field, community center, or discover local events, Book Third has you covered.
+- **For Users:** Effortless access to a wide array of community activities and venues. Whether you’re looking to book a sports field, community center, or discover local events, BookThird has you covered.
 - **For Municipalities:** Robust analytics to track usability and enhance community engagement. Our platform helps cities and towns make data-driven decisions to improve community services and facilities.
 
 ## Key Features

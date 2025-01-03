@@ -1,4 +1,4 @@
-# Book Third - Dev
+# BookThird - Dev
 
 Welcome to the official GitHub repository of **BookThird**! Our mission is to enhance community engagement and awareness by making it easy for residents and visitors to discover and book activities and venues within their communities. 
 

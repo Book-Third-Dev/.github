@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of **BookThird**! Our mission is to en
 
 ## About Us
 
-At **Book Third**, we bridge the gap between communities and their hidden gems. Our platform partners with municipalities to catalog all available venues and activities, making it easier for residents and visitors to discover, book, and enjoy local spaces. 
+At **BookThird**, we bridge the gap between communities and their hidden gems. Our platform partners with municipalities to catalog all available venues and activities, making it easier for residents and visitors to discover, book, and enjoy local spaces. 
 
 ### Our Vision
 
@@ -23,7 +23,7 @@ We aim to increase community engagement and awareness by creating ubiquity of al
 
 ## Contact
 
-For more information, visit our website [Book Third](https://www.bookthird.com) or contact us at [support@bookthird.com](mailto:support@bookthird.com).
+For more information, visit our website [BookThird](https://www.bookthird.com) or contact us at [support@bookthird.com](mailto:support@bookthird.com).
 
 Join us in making communities more connected and vibrant!
 
